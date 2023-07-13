@@ -1,3 +1,3 @@
 # Python_basics1
 
-First way of explaining python
+My way of explaining python basics with the help of jupyter notebook
